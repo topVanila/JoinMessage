@@ -1,1 +1,6 @@
-
+name: JoinMessage
+version: 1.0
+main: me.breaksmp.joinmessage.JoinMessage
+api-version: '1.21'
+author: BreakSMP
+description: Sends messages when a player joins
